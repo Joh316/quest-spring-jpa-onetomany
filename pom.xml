@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wildcodeschool</groupId>
-	<artifactId>wildandwizard</artifactId>
+	<artifactId>quest-spring-jpa-onetomany</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Wild And Wizard</name>
 	<description>Demo project for Spring Boot</description>
